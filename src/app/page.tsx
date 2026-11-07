@@ -239,7 +239,7 @@ export default function Home() {
       <section className="contact-page">
         <Motif kind="torii" className="contact-torii"/>
         <Photo src={photos.gold} alt="Golden Pavilion at dusk reflected in the water" label="LAST LIGHT / KYOTO" className="contact-photo" phase={5.5}/>
-        <div className="contact-copy"><SectionMark number="06" title="THE NEXT CHAPTER"/><p className="kicker">OPEN TO GOOD CONVERSATIONS</p><h2>Let&apos;s make<br /><em>something work.</em></h2><a className="email-link" href="mailto:aldortsa@gmail.com">aldortsa@gmail.com <ArrowUpRight size={20}/></a><div className="contact-details"><a href="tel:+50660352490">+506 6035 2490</a><a href="https://www.linkedin.com/in/aldair-ortiz-sancho-1688a135/" target="_blank" rel="noreferrer">LinkedIn <ArrowUpRight size={14}/></a><span>Cartago, Costa Rica</span></div></div>
+        <div className="contact-copy"><SectionMark number="06" title="THE NEXT CHAPTER"/><p className="kicker">OPEN TO GOOD CONVERSATIONS</p><h2>Let&apos;s make<br /><em>something work.</em></h2><a className="email-link" href="mailto:aldortsa@gmail.com">aldortsa@gmail.com <ArrowUpRight size={20}/></a><div className="contact-details"><a href="https://www.linkedin.com/in/aldair-ortiz-sancho-1688a135/" target="_blank" rel="noreferrer">LinkedIn <ArrowUpRight size={14}/></a></div></div>
         <footer className="footer"><a className="wordmark" href="#top">AO<span> / CR</span></a><span>ALDAIR JOSUE ORTIZ SANCHO · 2026</span><a href="#top">BACK TO THE TOP ↑</a></footer>
       </section>
     </main>
