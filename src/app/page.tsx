@@ -170,7 +170,7 @@ export default function Home() {
 
       <section className="cover" id="top">
         <Motif kind="sun" className="cover-sun" />
-        <div className="cover-meta"><span>FIELD JOURNAL / VOL. 01</span><span>CARTAGO · COSTA RICA</span></div>
+        <div className="cover-meta"><span>FIELD JOURNAL / VOL. 01</span><span>COSTA RICA</span></div>
         <div className="cover-grid">
           <div className="cover-copy">
             <p className="kicker"><span>PHOTOGRAPHER</span><span>DEVELOPER</span><span>PLATFORM ENGINEER</span></p>
