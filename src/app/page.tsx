@@ -188,7 +188,7 @@ export default function Home() {
         <Motif kind="ukiyoe" className="profile-ukiyoe" />
         <SectionMark number="01" title="THE PERSON BEHIND THE SYSTEMS" />
         <div className="profile-layout">
-          <div className="profile-title"><p className="kicker">15+ YEARS IN SOFTWARE</p><h2>Make room<br />for <em>good work.</em></h2><p className="place"><MapPin size={16}/> Cartago, Costa Rica</p></div>
+          <div className="profile-title"><p className="kicker">15+ YEARS IN SOFTWARE</p><h2>Make room<br />for <em>good work.</em></h2><p className="place"><MapPin size={16}/> Costa Rica</p></div>
           <div className="profile-text">
             <p className="intro-large">Senior DevOps Engineer with 15+ years designing, automating and operating cloud infrastructure, CI/CD platforms and enterprise software.</p>
             <p>Hands-on across AWS and Azure, Terraform, Docker, Kubernetes, GitHub Actions, Jenkins, CircleCI, Linux and automation. I build secure deployment systems, reusable workflows and the platform foundations that help teams ship with confidence.</p>
